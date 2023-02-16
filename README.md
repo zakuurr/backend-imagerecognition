@@ -1,7 +1,5 @@
 # react-express-image-recognition
 
-Source Code of Image Recognition App for this [YouTube video](https://youtu.be/YZTlxyTXcug)
-
 <img src="./thumbnail.png" width="320" height="180" />
 
 ## Running the App
