@@ -17,7 +17,7 @@ function App() {
             marginLeft: "12px",
             marginRight: "8px"
           }} />
-          Image Recognition App
+          Image Recognition
         </Navbar.Brand>
       </Navbar>
 
